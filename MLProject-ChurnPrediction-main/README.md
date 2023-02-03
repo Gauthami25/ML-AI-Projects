@@ -1,1 +1,0 @@
-This goal of the project is to create a predictive customer churn model
